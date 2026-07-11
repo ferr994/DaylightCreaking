@@ -1,0 +1,5 @@
+name: daylightcreaking
+main: com.goobers.daylightcreaking.Plugin
+version: 1.0-SNAPSHOT
+author: Ferr994
+api-version: 26.1.2
